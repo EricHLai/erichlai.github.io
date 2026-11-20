@@ -2,8 +2,6 @@
 # Eric Lai
 Hello, I'm 14 years old and I'm interested in the world of finance so I'm currently working on springpod and have tried investing simulators like Wall street survivor and Investopedia, I've also passed the CFA Institute investment foundation certificate. Additionally, I am also doing [leetcode](https://leetcode.com/eriiiic), [codeforces](https://codeforces.com/profile/Eriic) and the silver CREST award.
 
-I have also achieved grade 8 in piano and grade 7 in cello. 
-
 ## Education
 - [The Perse School](http://www.perse.co.uk), Y9-
 - [Impington Village College](https://ivc.tela.org.uk), Y7 to Y8
